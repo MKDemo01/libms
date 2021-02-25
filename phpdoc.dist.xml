@@ -5,7 +5,7 @@
   xmlns="https://www.phpdoc.org"
   xsi:noNamespaceSchemaLocation="https://docs.phpdoc.org/latest/phpdoc.xsd">
   <paths>
-    <output>docs</output>
+    <output>docs/api</output>
     <cache>.phpdoc/cache</cache>
   </paths>
   <version number="3.0.0">
